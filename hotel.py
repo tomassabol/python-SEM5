@@ -3,8 +3,8 @@
 numPpl = int(input("vložte počet osôb a stlačte ENTER"))
 numNghts = int(input("vložte počet nocí a stlačte ENTER"))
 
-noc=30
-strava=15
+noc = 30
+strava = 15
 
 def cena(types):
     a = types*numPpl
